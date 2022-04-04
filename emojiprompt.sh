@@ -1,3 +1,5 @@
+# khansaad1275
+
 echo '#-------Termux-Emoji-Prompt-------' >> "/data/data/com.termux/files/usr/etc/bash.bashrc"
 
 echo "arr=(👾 💻 🍀 🦮 ⛰️ 🍺 🎨 🏃🏻‍♂️ 👨🏻‍🌾 🐢 🐼 🐙 🐳 🐓 🪵 🍄 🔥 🍁 🐚 🌊 🍉 🥝 🍋) >" >> "/data/data/com.termux/files/usr/etc/bash.bashrc"
